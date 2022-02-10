@@ -6,7 +6,7 @@ You will develop an API from a CRUD (**C**reate, **R**ead, **U**pdate and **D**e
 
 ### Skills to be Tested
 
-In this project, we check if you are able to:
+In this project, I was able to:
 
 - Perform asynchronous operations using callbacks;
 - Perform asynchronous operations using Promises;
